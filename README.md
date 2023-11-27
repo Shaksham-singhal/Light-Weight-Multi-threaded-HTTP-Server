@@ -69,7 +69,7 @@ whatever data is typer in the logib must be stored in the datbase
 
 ## 3.5 Error
 
-
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/08d9cf63-b02e-4f7c-9f96-fcc17c96c2db)
 
 
 
