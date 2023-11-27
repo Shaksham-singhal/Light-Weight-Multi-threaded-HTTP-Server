@@ -77,6 +77,8 @@ whatever data is typer in the logib must be stored in the datbase
 
 ![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/bebfac9c-c445-4663-8f15-90189135c966)
 
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/9cb6d4ed-e85b-4ecc-b2c5-bc662f54b6b4)
+
 
 
 
