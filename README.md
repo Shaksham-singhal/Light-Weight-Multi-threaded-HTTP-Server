@@ -40,7 +40,7 @@ whatever data is typer in the logib must be stored in the datbase
 
 ## 3.1 Connection with the port
 
-
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/6e06f161-d267-4db0-ba23-dd4df1fbe4e1)
 
 
 
