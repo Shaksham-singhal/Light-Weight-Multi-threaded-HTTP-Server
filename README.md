@@ -53,7 +53,7 @@ whatever data is typer in the logib must be stored in the datbase
 
 ## 3.3 Different attributes(display of html and css)
 
-
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/a52695d8-6aa0-490b-a49e-c82c3300c49d)
 
 
 ## 3.4 Login page
