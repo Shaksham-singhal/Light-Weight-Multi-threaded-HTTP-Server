@@ -47,7 +47,7 @@ whatever data is typer in the logib must be stored in the datbase
 ## 3.2 Logging in the HTTP server
 
 
-
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/187f2f59-0b23-411d-a6cd-b19c2f5f3dd0)
 
 
 
