@@ -62,7 +62,7 @@ whatever data is typer in the logib must be stored in the datbase
 
 ## 3.4 Login page
 
-
+![image](https://github.com/Shaksham-singhal/Light-Weight-Multi-threaded-HTTP-Server/assets/72217766/3d762558-a91c-4ec2-b68b-5070e9a43bbe)
 
 
 
